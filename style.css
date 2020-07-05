@@ -3,7 +3,7 @@
 #index{
   position: relative;
   
-background: url('/mountains.jpg');
+background: url('mountains.jpg');
 min-height: 700px;
 
 
@@ -26,17 +26,17 @@ min-height: 700px;
 }
 
 .carousel-image-1 {
-  background: url('/image1.jpg');
+  background: url('image1.jpg');
   background-size: cover;
 }
 
 .carousel-image-2 {
-  background: url('/image2.jpg');
+  background: url('image2.jpg');
   background-size: cover;
 }
 
 .carousel-image-3 {
-  background: url('/image3.jpg');
+  background: url('image3.jpg');
   background-size: cover;
 }
 
@@ -71,7 +71,7 @@ min-height: 700px;
   color: #fff; }
 
   #authors{
-background: url('/mountains.jpg');
+background: url('mountains.jpg');
 background-size: cover;
 
   }
